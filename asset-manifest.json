@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/myMagazin/static/css/main.073c9b0a.css",
-    "main.js": "/myMagazin/static/js/main.1c0d567c.js",
+    "main.css": "/myMagazin/static/css/main.4fda8954.css",
+    "main.js": "/myMagazin/static/js/main.b0286192.js",
     "static/js/787.ceb3de54.chunk.js": "/myMagazin/static/js/787.ceb3de54.chunk.js",
-    "static/media/logo.svg": "/myMagazin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/myMagazin/index.html",
-    "main.073c9b0a.css.map": "/myMagazin/static/css/main.073c9b0a.css.map",
-    "main.1c0d567c.js.map": "/myMagazin/static/js/main.1c0d567c.js.map",
+    "main.4fda8954.css.map": "/myMagazin/static/css/main.4fda8954.css.map",
+    "main.b0286192.js.map": "/myMagazin/static/js/main.b0286192.js.map",
     "787.ceb3de54.chunk.js.map": "/myMagazin/static/js/787.ceb3de54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1c0d567c.js"
+    "static/css/main.4fda8954.css",
+    "static/js/main.b0286192.js"
   ]
 }
